@@ -1,2 +1,2 @@
 # Python-Toets-STP
-Steen Papier Schaar
+Steen Papier Schaar automated system
