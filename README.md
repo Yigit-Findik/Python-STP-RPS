@@ -1,2 +1,2 @@
 # Python-Toets-STP
-Steen Papier Schaar automated system
+Rock, Paper Scissors automated system
